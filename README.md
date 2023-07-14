@@ -1,2 +1,2 @@
 # commerce-website
-multi page website using html, css and JavaScript
+multi page responsive website using html, css and JavaScript
